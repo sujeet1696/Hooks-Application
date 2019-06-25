@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Progrming in C",
+    "description": "Basic understanding of C",
+    "category": "Programing"
+  },
+  {
+    "id": "2",
+    "name": "Quantitive aptitiue",
+    "description": "Basic fundamental math with solution",
+    "category": "General maths"
+  },
+  {
+    "id": "3",
+    "name": "DBMS",
+    "description": "Good explanation of Data base managment system",
+    "category": "Data base"
+  },
+  {
+    "id": "4",
+    "name": "Programming in java",
+    "description": "Basic understanding of Java",
+    "category": "Programming"
+  },
+  {
+    "id": "5",
+    "name": "Programming in Python",
+    "description": "Basic understanding of Python",
+    "category": "Programmming"
+  }
+]
